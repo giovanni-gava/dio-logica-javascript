@@ -7,3 +7,6 @@ const tableWords = [
 
 console.log(tableWords[0][0], tableWords[0][1])
 console.log(tableWords[1][0], tableWords[1][1])
+
+
+

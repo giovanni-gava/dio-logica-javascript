@@ -8,3 +8,6 @@ let tableNumbers =  [
 ]
 
 console.table(tableNumbers) // Exibe a matriz como uma tabela no console
+
+
+

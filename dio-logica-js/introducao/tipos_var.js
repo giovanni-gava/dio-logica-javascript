@@ -5,3 +5,5 @@ let typePokemon = "Electric"
 let selectablePokemon = true
 
 
+
+

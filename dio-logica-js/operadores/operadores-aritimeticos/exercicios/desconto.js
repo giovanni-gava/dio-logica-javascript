@@ -14,3 +14,5 @@ rl.question('Insira o valor do produto: ', (valorProduto) => {
     
     rl.close();
 });
+
+

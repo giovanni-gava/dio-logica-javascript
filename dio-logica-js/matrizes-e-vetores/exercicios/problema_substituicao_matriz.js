@@ -10,3 +10,7 @@ let valuesLetter = [
 valuesLetter[1][1] = "X"
 
 console.table(valuesLetter)
+
+
+
+

@@ -16,3 +16,5 @@ rl.question('Digite o seu peso atual (kg): ', (peso) => {
         rl.close();
     });
 });
+
+

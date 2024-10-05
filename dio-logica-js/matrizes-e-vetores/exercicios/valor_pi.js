@@ -14,6 +14,10 @@ console.log("A área do círculo 1 é " + circleArea1 +
 
 );
 
+
+
+
+
 // const valuePi = 3.14;  // Definindo a constante PI
 
 // let circleRadius = [5, 10, 15];  // Vetor com os raios dos círculos

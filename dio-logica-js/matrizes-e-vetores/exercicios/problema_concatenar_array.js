@@ -6,3 +6,7 @@ const namesStudants2 = ["Pedro", "Mariana"];
 const todos = namesStudants.concat(namesStudants2);  // Combina os dois vetores usando concat
 
 console.log(todos);
+
+
+
+

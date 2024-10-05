@@ -10,3 +10,6 @@ matrizOrigem[2] = [70, 80, 90]
 
 
 console.log(matrizOrigem) // Exibe a matriz no console
+
+
+

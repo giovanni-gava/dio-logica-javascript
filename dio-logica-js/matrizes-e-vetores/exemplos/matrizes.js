@@ -10,3 +10,5 @@ let currencyTable = [
 console.log("A moeda mais cara é " + currencyTable[1][0] + " e seu valor é " + currencyTable[1][1] ) 
 
 console.log(currencyTable.length) // 4
+
+

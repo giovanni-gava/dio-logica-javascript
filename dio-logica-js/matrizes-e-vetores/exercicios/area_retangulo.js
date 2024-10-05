@@ -7,3 +7,5 @@ let rectangleArea = rectangleBase * rectangleHeight;  // Área do retângulo
 
 console.log("A área do retângulo é " + rectangleArea);
 
+
+

@@ -7,3 +7,5 @@ valorArroz += 5
 
 console.log(preco) // 25
 
+
+

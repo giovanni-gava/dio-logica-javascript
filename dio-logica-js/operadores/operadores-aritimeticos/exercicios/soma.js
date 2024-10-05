@@ -12,3 +12,6 @@ rl.question('Digite o primeiro numero: ', (firstValue) => {
         rl.close();
     });
 });
+
+
+

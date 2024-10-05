@@ -7,3 +7,6 @@ b = a - b;  // b agora é 5
 a = a - b;  // a agora é 3
 
 console.log(`Após a troca: a = ${a}, b = ${b}`);
+
+
+
