@@ -1,6 +1,6 @@
 //Default é executado quando nenhum case é satisfeito
 
-let fruit = "lemon";
+let fruit = "morango";
 
 switch(fruit) {
     case "laranja":
@@ -14,7 +14,12 @@ switch(fruit) {
     case "mamao":
     console.log("Vitamina de mamão");
     break;
-    
+//Vocë pode ter mais de um case para a mesma ação, como abaixo
+    case "limao":
+    case "morango":
+    console.log("Suco");
+    break
+//Tambem é possivel incluir if else dentro do case, for each, while, etc
     default:
     console.log("Sem frutas");
 } 
